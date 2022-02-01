@@ -51,3 +51,11 @@ h1 {
 .align-justify {
     text-align: justify;
 }
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
