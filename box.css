@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+}
+
+.rectangle {
+    display: inline-block;
+    background-color: lightgreen;
+    margin: 50px;
+    border: 10px solid black;
+    padding: 20px;
+    height: 150px;
+    width: 300px;
+}
