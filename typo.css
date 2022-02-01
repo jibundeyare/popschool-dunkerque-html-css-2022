@@ -1,0 +1,33 @@
+body {
+    background-color: lightgoldenrodyellow;
+    color: rgba(255, 0, 0, 0.5);
+    /*
+    color: #FF000088;
+    */
+    /*
+    les valeurs vont de 0 à 255
+    rgb(rouge, vert, bleu)
+
+    les valeurs vont de 00 à FF
+    #rrvvbb
+
+    compter en héxadécimal
+    0 1 2 3 4 5 6 7 8 9 A B C D E F 10 11 12 19 1A 1B 1C 1E 1F 20 ...
+    */
+}
+
+h1 {
+    font-size: 56px;
+    color: #121061;
+    /*
+    color: rgb(18, 16, 97);
+    */
+}
+
+.important {
+    background-color: lightgray;
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
